@@ -3,3 +3,4 @@ This is a test to make sure we can do git pulls using JGit
 This is actually amazing.
 That is, when we finally see it work.
 More changes
+A little bit more changes
