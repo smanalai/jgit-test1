@@ -1,3 +1,4 @@
-Holy fucking shit it works
-You know what, it does work
-Let's fucking go, holy shit, it does work. What the actual fuck?
+The code works
+This is a test to make sure we can do git pulls using JGit
+This is actually amazing.
+That is, when we finally see it work.
