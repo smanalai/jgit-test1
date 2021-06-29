@@ -15,5 +15,6 @@ public class hellothere
      int three = 2 + one;
      System.out.println(three);
      System.out.println("Hello there");
+     System.out.println("Windblade!");
   }
 }
