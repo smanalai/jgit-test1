@@ -12,5 +12,6 @@ public class hellothere
      //What do you mean, I'm irrelevant...we're all irrelevant
      //Don't pull the big vast universe vs tiny comment argument on me
      int one = 2;
+     int three = 2 + one;
   }
 }
