@@ -13,5 +13,6 @@ public class hellothere
      //Don't pull the big vast universe vs tiny comment argument on me
      int one = 2;
      int three = 2 + one;
+     System.out.println(three);
   }
 }
