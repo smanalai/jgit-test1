@@ -70,7 +70,7 @@
         <gco:CharacterString>ISO19115:2003/Cor 1 2006</gco:CharacterString>
     </gmd:metadataStandardVersion>
     <gmd:dataSetURI>
-        <gco:CharacterString>https://www.acom.ucar.edu/wrf-chem/mozart.shtml</gco:CharacterString>
+        <gco:CharacterString>https://www.google.com</gco:CharacterString>
     </gmd:dataSetURI>
     <gmd:metadataExtensionInfo>
         <gmd:MD_MetadataExtensionInformation>
