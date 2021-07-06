@@ -94,10 +94,10 @@
             <gmd:citation>
                 <gmd:CI_Citation>
                     <gmd:title>
-                        <gco:CharacterString>Model for Ozone And Related chemical Tracers output (MOZART) </gco:CharacterString>
+                        <gco:CharacterString>This is a character string </gco:CharacterString>
                     </gmd:title>
                     <gmd:alternateTitle>
-                        <gco:CharacterString>MOZART-4 simulation results</gco:CharacterString>
+                        <gco:CharacterString>Results</gco:CharacterString>
                     </gmd:alternateTitle>
                     <gmd:date>
                         <gmd:CI_Date>
