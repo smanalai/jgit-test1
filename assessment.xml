@@ -34,21 +34,21 @@
                     <gmd:phone>
                         <gmd:CI_Telephone>
                             <gmd:voice>
-                                <gco:CharacterString>303-497-1491</gco:CharacterString>
+                                <gco:CharacterString>111-111-1111</gco:CharacterString>
                             </gmd:voice>
                         </gmd:CI_Telephone>
                     </gmd:phone>
                     <gmd:address>
                         <gmd:CI_Address>
                             <gmd:electronicMailAddress>
-                                <gco:CharacterString>emmons@ucar.edu</gco:CharacterString>
+                                <gco:CharacterString>email@email.com</gco:CharacterString>
                             </gmd:electronicMailAddress>
                         </gmd:CI_Address>
                     </gmd:address>
                     <gmd:onlineResource>
                         <gmd:CI_OnlineResource>
                             <gmd:linkage>
-                                <gmd:URL>http://acd.ucar.edu/~emmons</gmd:URL>
+                                <gmd:URL>http://www.google.com/~emmons</gmd:URL>
                             </gmd:linkage>
                         </gmd:CI_OnlineResource>
                     </gmd:onlineResource>
