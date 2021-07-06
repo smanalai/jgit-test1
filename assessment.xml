@@ -77,13 +77,13 @@
             <gmd:extensionOnLineResource>
                 <gmd:CI_OnlineResource>
                     <gmd:linkage>
-                        <gmd:URL>https://www2.acom.ucar.edu/gcm/mozart</gmd:URL>
+                        <gmd:URLhttp://www.google.com</gmd:URL>
                     </gmd:linkage>
                     <gmd:name>
-                        <gco:CharacterString>MOZART Project Homepage</gco:CharacterString>
+                        <gco:CharacterString>Google Test</gco:CharacterString>
                     </gmd:name>
                     <gmd:description>
-                        <gco:CharacterString>Descriptions of the MOZART project and related references.</gco:CharacterString>
+                        <gco:CharacterString>This is a test.</gco:CharacterString>
                     </gmd:description>
                 </gmd:CI_OnlineResource>
             </gmd:extensionOnLineResource>
